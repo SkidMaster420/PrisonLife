@@ -1,7 +1,8 @@
 # Prison Life
 
 <h1 align="center">PrizzLife Admin</h1>
-```lua
+
+```
 PLadmin_Settings = { 
 	GuiTheme = Color3.fromRGB(255, 0, 0); --(255, 0, 0)=Red(0, 255, 0)=Green(0, 0, 255)=Blue
 	DefaultPrefix = "?";
