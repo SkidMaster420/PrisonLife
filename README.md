@@ -28,3 +28,9 @@ PLadmin_Settings = {
 	WhisperToRanked = true; --Whisper to admined players
 };loadstring(game:HttpGet('https://raw.githubusercontent.com/SkidMaster420/PrisonLife/refs/heads/main/PrizzLife'))()
 ```
+
+<h1 align="center">Tiger Admin</h1>
+
+```
+Coming Soon!
+```
